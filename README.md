@@ -1,2 +1,2 @@
 # Test-Templates
-Hello
+Playground for GitHub issues and PR templates
