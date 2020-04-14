@@ -21,5 +21,5 @@ Add relevant links to documentation, articles, best practices, third party libra
 Add any other context about the improvement and more hints about its resolution.
 
 <!--
-Don't forget to add the technical label
+Don't forget to add the 'technical' label
 -->
