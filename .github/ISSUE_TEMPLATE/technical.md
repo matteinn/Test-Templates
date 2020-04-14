@@ -1,5 +1,5 @@
 ---
-name: "\U000F4BB Technical issue"
+name: "\U0001F527 Technical issue"
 about: Describe a technical improvement
 
 ---
