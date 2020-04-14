@@ -1,3 +1,9 @@
+---
+name: "\U0001F6E0 Technical issue"
+about: Describe a technical improvement
+
+---
+
 ### Describe the action needed
 
 <!--
