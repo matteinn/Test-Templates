@@ -1,5 +1,5 @@
 # Test-Templates
-Playground for GitHub issues and PR templates
+Playground for GitHub issues and PR templates.
 
 Ref:
 - https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository
